@@ -1,3 +1,28 @@
-#navBar {
-    display: inline-block
+#navBar{
+    position:relative;
+    margin-left:60%;
+}
+li {
+    display: inline-block;
+    padding: 5%;
+    list-style-type: none;
+}
+body{
+    font-family: sans-serif;
+}
+#body{
+    margin-top: 10%;
+    margin-left: 30%;
+}
+#web{
+    color: rgb(44, 235, 69);
+    margin-top:2%;
+    margin-left: 30%;
+}
+#developer{
+    margin-left: 35%;
+}
+
+h1, h2{
+margin: 0%;
 }
