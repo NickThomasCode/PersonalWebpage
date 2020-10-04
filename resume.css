@@ -1,0 +1,20 @@
+body{
+    font-family: sans-serif;
+}
+
+#navbar {
+    position:relative;
+    margin-left:60%;
+
+}
+li{
+    display: inline-block;
+    padding: 5%;
+    list-style-type: none;
+    color: black;
+    position: oblique;
+}
+a{
+    text-decoration: none;
+    color: rgb(25, 176, 247);
+}
