@@ -40,10 +40,13 @@ a{
 h1, h2{
 margin: 0%;
 }
-img {
+
+
+img{
+    position: relative;
     margin-top: -10%;
     margin-left: -10%;
-    width: 35%;
-    height: 950px;
     float: left;
+    width: 45%;
+    height: 950px;
 }

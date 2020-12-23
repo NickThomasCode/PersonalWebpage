@@ -1,5 +1,13 @@
+#resume{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+}
+
 body{
     font-family: sans-serif;
+    background-color: rgb(25, 176, 247);
 }
 
 #navbar {
@@ -15,5 +23,5 @@ li{
 }
 a{
     text-decoration: none;
-    color: rgb(25, 176, 247);
+    color: rgb(255, 255, 255);
 }
